@@ -28,6 +28,7 @@
 </p>
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kpvakhrushev&show_icons=true&locale=en&layout=compact" alt="kpvakhrushev" />
+    🐍 питон приполз из хобби (IoT HomeAssistatnt + MegaD: автоматизировал, автоматизировал и выавтоматизировал интеграцию электросчетчика в умный дом)
 </p>
 <h3 >Статистика коммитов:</h3> 
 <p>
