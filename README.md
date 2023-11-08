@@ -34,6 +34,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=kpvakhrushev&show_icons=true&locale=en" alt="kpvakhrushev" />
 </p>
 <p>
-    Почему так мало? А потому что "7 раз проверь, один раз заккомить". Народная мудрость ☝
+    "7 раз проверь, один раз заккомить". Народная мудрость ☝
 </p>
 
+<h3 >Контакты:</h3> 
+Телеграм https://t.me/kpvakhrushev
